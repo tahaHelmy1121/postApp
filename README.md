@@ -1,6 +1,5 @@
 # white
 
-A new Flutter project.
 Key Features Enabled by These Packages
 Clean API integration using Retrofit and Dio.
 
@@ -13,9 +12,7 @@ Testable and maintainable code using dependency injection.
 Easily comparable models and state using Equatable.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
