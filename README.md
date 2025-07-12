@@ -1,7 +1,16 @@
 # white
 
 A new Flutter project.
+Key Features Enabled by These Packages
+Clean API integration using Retrofit and Dio.
 
+Auto-generated model serialization with minimal code.
+
+Scalable state management with Bloc.
+
+Testable and maintainable code using dependency injection.
+
+Easily comparable models and state using Equatable.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
